@@ -39,7 +39,7 @@ left:900px;
 hr {
     width: 50%;
     height: 20px;
-    background-color: red;
+    background-color: rgb(100, 255, 0);
     margin-right: auto;
     margin-left: auto;
     margin-top: 5px;
