@@ -35,3 +35,15 @@ position:absolute;
 top:50px;
 left:900px;
 }
+
+hr {
+    width: 50%;
+    height: 20px;
+    background-color: red;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-width: 2px;
+    border-color: green;
+    }
