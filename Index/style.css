@@ -46,5 +46,6 @@ hr {
     margin-bottom: 2px;
     border-width: 2px;
     border-color: green;
+    position: absolute;
     top: 400px;
     }
